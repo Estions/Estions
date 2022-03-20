@@ -1,5 +1,1 @@
-- Hello, i'm Estio or Estions, both will work.
-- I'm currently a student doing comp-sci. And looking to get more experience in the Game-Dev industry, be that freelance work or professional positions.
-- At this point in time i am confident is using C#, Java, CSS and HTML...  PHP is still a strange thing for me and JS i haven't even touched.
-When it comes to other things, i'm decent-ish with working on Unity projects.
-- If you have any questions - feel free to message me on twitter @___estio.
+- Yo, I'm Eric, can't be bothered with an indepth README, since don't have anything to show... YET.
